@@ -1,4 +1,4 @@
-# vuejs-cli
+# Todo App (vuejs-cli)
 
 ## Project setup
 ```
