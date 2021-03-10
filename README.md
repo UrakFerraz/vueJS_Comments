@@ -1,6 +1,6 @@
 # Todo App (vuejs-cli)
 
-> *App:* https://urakferraz.github.io/vueJS_Todo/
+> *App:* https://urakferraz.github.io/vueJS_Comments/
 
 ## Project setup
 ```
